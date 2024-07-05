@@ -1,4 +1,4 @@
-# Similarity-based label choosing strategy for effective testing of deep neural networks with adversarial attacks
+# Similarity-driven adversarial testing of deep networks
 
 We provide jupyter notebooks with the implementation (and instructions) for different target label choosing strategies based on similarity (WordNet semantic similarity and deep networks' perception of similarity). We also provide the notebooks in the HTML format. Generated labels can be used as targets in targeted and non-targeted attacks (e.g. in gradient-based attacks such as FGSM [1]).
 
